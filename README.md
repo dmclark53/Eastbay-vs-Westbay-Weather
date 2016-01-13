@@ -1,4 +1,4 @@
-# Palo-Alto-Weather-2014
-Project studying weather difference between the Eastbay and the Westbay.
+# East-Bay-vs-Peninsula-Weather
+Project studying weather difference between the East Bay and the Peninsula.
 
 All data provided by the NOAA NCDC.
